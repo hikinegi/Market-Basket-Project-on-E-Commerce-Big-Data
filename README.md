@@ -1,13 +1,5 @@
 # Brazillian-E-commerce-Analysis --- Project:
-# iNeuron Internship Team Members:
-### Puran Prakash Sinha Project Team Lead,
-### Ayushi choudhary Project Intern, Sudha s Project Intern, Ishita Maity Project intern
-### Ashwin Jain Project Intern
-### Basant Kumar	Project Intern, Kisalay Srivastava Project Intern
-### RAHUL RAWAT	Project Intern, sharad rohitas Project Intern
-### ASHISH YADAV	Project Intern, Vivek Jadhav Project Intern, Rahul Khemani Project Intern
-### Venkatesan Jayasanker Project Intern, RAHUL TIWARI	Project Intern
-### Anirudh Jagannath Project Intern, K Manasha Project Intern
+# mohit negi
 
 ## Abstract
 
